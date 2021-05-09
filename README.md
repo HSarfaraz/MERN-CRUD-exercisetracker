@@ -20,7 +20,7 @@ On the backend, cd backend, you can run:
 
 In Database, we created with the name crudlevelup and collection name as students
 
-![database](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/blob/master/database.png)
+![database](https://github.com/HSarfaraz/MERN-CRUD-exercisetracker/blob/master/database.png)
 
 ### `mongod`
 
@@ -31,8 +31,8 @@ For the Database, open the command prompt and run mongod, and open the atlas com
 I learnt from [Source]https:https://levelup.gitconnected.com/mern-stack-crud-operations-2a95448de78c for more information.
 
 
-![Exerciselist](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/blob/master/exerciseList.png)
+![Exerciselist](https://github.com/HSarfaraz/MERN-CRUD-exercisetracker/blob/master/exerciseList.png)
 
-![ExerciseStudent](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/blob/master/createExercise.png)
+![ExerciseStudent](https://github.com/HSarfaraz/MERN-CRUD-exercisetracker/blob/master/createExercise.png)
 
-![EditExercise](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/blob/master/editExercise.png)
+![EditExercise](https://github.com/HSarfaraz/MERN-CRUD-exercisetracker/blob/master/editExercise.png)
