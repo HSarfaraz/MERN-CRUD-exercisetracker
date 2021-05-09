@@ -18,7 +18,7 @@ On the backend, cd backend, you can run:
 
 ### `nodemon server.js`
 
-In Database, we created with the name crudlevelup and collection name as students
+In Database, we created with the name crudlevelup and collection name as exercises & users
 
 ![database](https://github.com/HSarfaraz/MERN-CRUD-exercisetracker/blob/main/database.png)
 
